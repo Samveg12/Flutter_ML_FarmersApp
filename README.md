@@ -14,12 +14,12 @@ Step 4 Run the flask backend and then run the flutter application.
 
 # ScreenShots
 Home Screen 
-![WelcomeScreen](https://user-images.githubusercontent.com/68071531/147539950-46eeda66-e1a5-49a4-b51c-7982b0704bc4.png | width=100)
+<img src="https://user-images.githubusercontent.com/68071531/147539950-46eeda66-e1a5-49a4-b51c-7982b0704bc4.png" width="100" height="100">
 Select Language Screen
-![SelectLanguage](https://user-images.githubusercontent.com/68071531/147540023-64cd1d9b-2699-4029-b3f1-8c906cbcba79.png | width=100)
+<img src="https://user-images.githubusercontent.com/68071531/147540466-7d40eb56-fce4-4ef5-88b5-7ff5dbdada6a.png" width="100" height="100">
 Translate Screen
-![Translate](https://user-images.githubusercontent.com/68071531/147540079-ea839d4a-ffdf-4dbf-9187-e71e2e32e177.jpeg | width=100)
+<img src="https://user-images.githubusercontent.com/68071531/147540079-ea839d4a-ffdf-4dbf-9187-e71e2e32e177.jpeg" width="100" height="100">
 Response Screen
-![Response](https://user-images.githubusercontent.com/68071531/147540150-8016c8db-11a5-4ed5-9340-a6f469a82202.jpeg | width=100)
+<img src="https://user-images.githubusercontent.com/68071531/147540150-8016c8db-11a5-4ed5-9340-a6f469a82202.jpeg" width="100" height="100">
 Disease Prediction Screen
-![Predicted1](https://user-images.githubusercontent.com/68071531/147540198-6d74e92a-30b3-4856-9784-63d6db2c69ae.png | width=100)
+<img src="https://user-images.githubusercontent.com/68071531/147540198-6d74e92a-30b3-4856-9784-63d6db2c69ae.png" width="100" height="100">
